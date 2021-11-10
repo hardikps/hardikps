@@ -8,4 +8,4 @@
 hardikps/hardikps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![grab-landing-page](https://github.com/hardikps/hardikps/blob/f48fa33745ef59d98742f89a691880eec65b9480/welcome.gif)
+
